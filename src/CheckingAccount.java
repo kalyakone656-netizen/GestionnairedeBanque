@@ -11,3 +11,4 @@ public class CheckingAccount extends BankAccount {
         System.out.println("Limite : " + limit);
     }
 }
+// Classe compte courant avec limite
